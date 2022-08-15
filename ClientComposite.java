@@ -59,7 +59,7 @@ class CompositeAccount extends Account {
   }
 }
 
-public class Client {
+public class ClientComposite {
 
   public static void main(String[] args) {
     CompositeAccount component = new CompositeAccount();
